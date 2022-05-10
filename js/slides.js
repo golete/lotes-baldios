@@ -239,6 +239,7 @@ const slides04 = [
       cuya población es <b>mayoritariamente no blanca</b> tienen una mucho mayor
       proporción de propiedades morosas o baldías que aquellas con mayoría de
       población blanca.
+      <br></br>
       <img src='img/disparity-02.png' alt='Racial disparity chart'>
     `,
     phase: 'minority',
