@@ -224,10 +224,10 @@ const slides04 = [
     title: "",
     content: `
       `,
-    phase: 'minority',
+    phase: 'racial',
     // showpopups: true,
     bounds: [[39.9, -75.35], [40.16, -74.87]],
-    philly: true,
+    philly: false,
     emphasis: false,
   },
   {
@@ -240,13 +240,13 @@ const slides04 = [
       proporción de propiedades morosas o baldías que aquellas con mayoría de
       población blanca.
       <br></br>
-      <img src='img/disparity-02.png' alt='Racial disparity chart'>
+      <img src='img/disparity-01.png' alt='Racial disparity chart'>
     `,
-    phase: 'minority',
+    phase: 'racial',
     // showpopups: true,
     bounds: [[39.9, -75.35], [40.16, -74.87]],
-    philly: true,
-    emphasis: true,
+    philly: false,
+    emphasis: false,
   },
   {
     title: "...y los Barrios con Ingreso por Debajo de la Media.",
@@ -259,13 +259,13 @@ const slides04 = [
       el U.S. Bank deciden ejecutar la hipoteca de una propiedad baldía, el
       impacto no es el mismo para todos los grupos demográficos.
       <br></br>
-      <img src='img/disparity-01.png' alt='Racial disparity chart'>
+      <img src='img/disparity-02.png' alt='Racial disparity chart'>
     `,
     phase: 'income',
     // showpopups: true,
     bounds: [[39.9, -75.35], [40.16, -74.87]],
-    philly: true,
-    emphasis: true,
+    philly: false,
+    emphasis: false,
   },
   {
     title: "Kensington: La Frontera del Desarrollo Inmobiliario",
